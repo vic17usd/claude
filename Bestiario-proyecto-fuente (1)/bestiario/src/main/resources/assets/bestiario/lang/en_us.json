@@ -1,0 +1,12 @@
+{
+  "entity.bestiario.jabali_salvaje": "Wild Boar",
+  "entity.bestiario.pavo_salvaje": "Wild Turkey",
+  "entity.bestiario.cenizo": "Cinderhusk",
+  "entity.bestiario.viuda_de_las_cuevas": "Cave Widow",
+  "entity.bestiario.espectro_errante": "Wandering Specter",
+  "item.bestiario.jabali_salvaje_spawn_egg": "Wild Boar Spawn Egg",
+  "item.bestiario.pavo_salvaje_spawn_egg": "Wild Turkey Spawn Egg",
+  "item.bestiario.cenizo_spawn_egg": "Cinderhusk Spawn Egg",
+  "item.bestiario.viuda_de_las_cuevas_spawn_egg": "Cave Widow Spawn Egg",
+  "item.bestiario.espectro_errante_spawn_egg": "Wandering Specter Spawn Egg"
+}

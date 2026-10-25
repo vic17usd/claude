@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#bestiario:habitat_pavo",
+  "spawners": {
+    "type": "bestiario:pavo_salvaje",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 5
+  }
+}

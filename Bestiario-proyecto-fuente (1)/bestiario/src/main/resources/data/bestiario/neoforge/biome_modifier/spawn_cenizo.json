@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#bestiario:habitat_cenizo",
+  "spawners": {
+    "type": "bestiario:cenizo",
+    "weight": 60,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

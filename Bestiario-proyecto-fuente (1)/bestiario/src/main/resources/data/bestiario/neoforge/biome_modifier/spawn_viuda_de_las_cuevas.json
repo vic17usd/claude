@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "spawners": {
+    "type": "bestiario:viuda_de_las_cuevas",
+    "weight": 25,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

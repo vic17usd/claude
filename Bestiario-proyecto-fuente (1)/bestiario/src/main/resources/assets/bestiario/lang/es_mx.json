@@ -1,0 +1,12 @@
+{
+  "entity.bestiario.jabali_salvaje": "Jabalí Salvaje",
+  "entity.bestiario.pavo_salvaje": "Pavo Salvaje",
+  "entity.bestiario.cenizo": "Cenizo",
+  "entity.bestiario.viuda_de_las_cuevas": "Viuda de las Cuevas",
+  "entity.bestiario.espectro_errante": "Espectro Errante",
+  "item.bestiario.jabali_salvaje_spawn_egg": "Huevo generador de Jabalí Salvaje",
+  "item.bestiario.pavo_salvaje_spawn_egg": "Huevo generador de Pavo Salvaje",
+  "item.bestiario.cenizo_spawn_egg": "Huevo generador de Cenizo",
+  "item.bestiario.viuda_de_las_cuevas_spawn_egg": "Huevo generador de Viuda de las Cuevas",
+  "item.bestiario.espectro_errante_spawn_egg": "Huevo generador de Espectro Errante"
+}

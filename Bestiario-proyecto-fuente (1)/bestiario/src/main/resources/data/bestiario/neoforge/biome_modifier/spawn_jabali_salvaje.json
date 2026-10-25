@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#bestiario:habitat_jabali",
+  "spawners": {
+    "type": "bestiario:jabali_salvaje",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

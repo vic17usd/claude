@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#bestiario:habitat_espectro",
+  "spawners": {
+    "type": "bestiario:espectro_errante",
+    "weight": 40,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}
